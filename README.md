@@ -1,4 +1,12 @@
-# hack2022-d361
-### Follow these instructions to get access https://confluence.eng.nutanix.com:8443/pages/viewpage.action?spaceKey=DPRO&title=Setup+GitHub.com+account.
-### NOTE: For Hackathon Repos, you don't need to add your team mates for write access, everyone will automatically get write access.
-### Visit the Hackathon 8.0 Google Share (https://drive.google.com/drive/u/1/folders/0ACFZCIUYb-7AUk9PVA) for instructions, team lists, and your presentation and demo folder.
+# C2C Transporter
+
+Cloud-to-Cloud transporter helps to move/deliver/migrate a basic entity(like a VM, file etc)  from one cloud to another managed by any NX product. An example would  be to try to transport DB VMs managed by say Era,  from Azure to AWS.
+
+## Hackathon Home
+https://nutanix.brightidea.com/D361
+
+## GDrive Home
+https://drive.google.com/drive/u/1/folders/15h3LzuDW-hVY5wDxuHfOCSir5N-oqFNk
+
+## Team Members
+Anoop Joe Cyriac <anoop.cyriac@nutanix.com>
