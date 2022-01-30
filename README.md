@@ -9,4 +9,6 @@ https://nutanix.brightidea.com/D361
 https://drive.google.com/drive/u/1/folders/15h3LzuDW-hVY5wDxuHfOCSir5N-oqFNk
 
 ## Team Members
-Anoop Joe Cyriac <anoop.cyriac@nutanix.com>
+ Name   |      Email       |
+|----------|:------------- |
+| Anoop Joe Cyriac |  anoop.cyriac@nutanix.com |
