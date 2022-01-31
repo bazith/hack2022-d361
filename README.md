@@ -12,3 +12,4 @@ https://drive.google.com/drive/u/1/folders/15h3LzuDW-hVY5wDxuHfOCSir5N-oqFNk
  Name   |      Email       |
 |----------|:------------- |
 | Anoop Joe Cyriac |  anoop.cyriac@nutanix.com |
+| Bazith Ahamed | bazith.ahamed@nutanix.com |
